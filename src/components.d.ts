@@ -44,7 +44,7 @@ declare namespace LocalJSX {
     interface AppHome {
     }
     interface AppProfile {
-        "match"?: MatchResults;
+        "match": MatchResults;
     }
     interface AppRoot {
     }
